@@ -1,1 +1,3 @@
 # -Explorando-la-diversidad-europea-mediante-datos
+Nuestro proyecto de viaje familiar por Europa no solo fue una aventura personal, sino también una oportunidad para recopilar y analizar datos culturales y geográficos. Este repositorio contiene datasets de las diferentes ciudades que visitamos, desde París hasta Londres, y scripts para visualizar cómo la cultura y la geografía influyen en las experiencias de viaje. A través de este análisis, buscamos entender mejor las conexiones entre lugares, personas y tradiciones.
+https://marcelohidalgosola.com.ar/viaje-por-europa/viaje-familiar-por-europa-descubriendo-nuevas-culturas-y-tradiciones/
